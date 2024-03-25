@@ -1,0 +1,10 @@
+.country {
+  border: 1px solid olive;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.visited {
+  background-color: aqua;
+}
